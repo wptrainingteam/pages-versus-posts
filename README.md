@@ -117,12 +117,20 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 1.  Static
 2.  Dynamic
 
-**Answer:** 2\. Correct answer **A page is which of the following?**
+**Answer:** 2\. Dynamic
+
+**A page is which of the following?**
 
 1.  Static
 2.  Dynamic
 
-**Answer:** 1\. Static **Can pages have tags?** **Answer:** No **By default, pages are displayed in reverse-chronological order on the site, one on top of the other. **
+**Answer:** 1\. Static 
+
+**Can pages have tags?** 
+
+**Answer:** No 
+
+**By default, pages are displayed in reverse-chronological order on the site, one on top of the other. **
 
 1.  True
 2.  False
@@ -133,11 +141,12 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 Use one or more of the following themes in your demos:
 
-*   [Twenty Twelve theme](http://wordpress.org/themes/twentytwelve)
-*   [Twenty Thirteen theme](http://wordpress.org/themes/twentythirteen)
-*   [Twenty Fourteen theme](http://wordpress.org/themes/twentyfourteen)
-*   [Twenty Fifteen theme](http://wordpress.org/themes/twentyfifteen)
-*   [Twenty Sixteen theme](http://wordpress.org/themes/twentysixteen)
+*   [Twenty Twelve theme](https://wordpress.org/themes/twentytwelve)
+*   [Twenty Thirteen theme](https://wordpress.org/themes/twentythirteen)
+*   [Twenty Fourteen theme](https://wordpress.org/themes/twentyfourteen)
+*   [Twenty Fifteen theme](https://wordpress.org/themes/twentyfifteen)
+*   [Twenty Sixteen theme](https://wordpress.org/themes/twentysixteen)
+*   [Twenty Seventeen theme](https://wordpress.org/themes/twentyseventeen)
 
 ## Additional Resources
 
