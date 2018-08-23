@@ -16,13 +16,13 @@ After completing this lesson, you will be able to:
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
-*   The [WordPress Dashboard.](https://make.wordpress.org/training/handbook/user-lessons/overview-of-the-dashboard/)
+*   The [WordPress Dashboard.](https://github.com/wptrainingteam/dashboard-overview)
 
 ## Assets
 
 *   A WordPress site for practicing
 *   [Theme unit test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) to import for example site
-*   Link to [lorem2.com](http://lorem2.com/)
+*   Link to [lipsum.com](http://lipsum.com/)
 *   Include an image to upload for a featured image or find one from [http://placekitten.com/](http://placekitten.com/)
 
 ## Screening Questions
@@ -38,7 +38,6 @@ You will be better equipped to work through this lesson if you have experience i
 *   For this project you will copy and paste dummy content from [lipsum.com](http://lipsum.com/). This makes the process of creating test pages and posts faster. It's advised you explain to students the concept of "dummy content" in the development process.
 *   The teacher should have access to the post editor and page editor, either installed locally or on a remote server. This editor should be visible to all students.
 *   Optionally, students should have access to their Editors, either installed locally or on a remote server.
-*   The screen shots in this lesson plan are provided only to illustrate the parts of the page under discussion.
 *   Instructions to the teacher are shown in square brackets.
 
 ## Hands-on Walkthrough
@@ -53,11 +52,11 @@ Before you can create posts and pages, you need to log in to your site. Do this 
 
 ### Practice Adding Posts
 
-Now it's time to add a post. To add a post to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard>Posts>Add New. Take a moment to explore the publishing options. You can publish immediately, schedule a post or even password-protect a post. If you only want part of your post showing on social media and on your main blog page, insert the the more tag as you edit your post. Your post will have a unique url. Notice how it says post-title in the following example? Ex: http://yourwebsite.wordpress.com/date/post-title/
+Now it's time to add a post. To add a post to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard>Posts>Add New. Take a moment to explore the publishing options. You can publish immediately, schedule a post or even password-protect a post. If you only want part of your post showing on social media and on your main blog page, insert the the more tag as you edit your post. Your post will have a unique url. Notice how it says post-title in the following example? Ex: http://yourwebsite.wordpress.com/date/post-title/ (The actual path will depend on your settings under Settings>Permalinks.)
 
 ### Practice Adding Pages
 
-When you are comfortable making a post, try creating a page. To add a page to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard>Pages>Add New. Check out your publishing options on this page. Also note how the unique url is shown for pages by using page-title. For example: http://yourwebsite.wordpress.com/date/page-title/.
+When you are comfortable making a post, try creating a page. To add a page to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard>Pages>Add New. Check out your publishing options on this page. Also note how the unique url is shown for pages by using page-title. For example: http://yourwebsite.wordpress.com/page-title/.
 
 ### Similarities Between Posts and Pages
 
@@ -74,7 +73,7 @@ Open your new post and your new page so they are side-by-side. Show how both hav
 
 ### Things Unique to Pages
 
-Notice how Pages are static and are not listed by date. They don't have tags or categories, and you can change the template. You can use a menu to make your pages stand out for readers, or you can use the pages widget. Some themes show pages in tabs at the top of a blog. Here are some popular uses for pages:
+Notice how pages are static and are not listed by date. They don't have tags or categories, and you can change the template. You can use a menu to make your pages stand out for readers, or you can use the pages widget. Some themes show pages in tabs at the top of a blog. Here are some popular uses for pages:
 
 *   Category Page
 *   Contact Page
@@ -89,10 +88,10 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 **Add a Post** Learn how to create a blog post by selecting the proper tools and using Lorem Ipsum to add content.
 
-*   Create a post
-*   Give the post a title
-*   Fill the post with content using Lorem Ipsum
-*   Add a Featured Image
+*   Create a post.
+*   Give the post a title.
+*   Fill the post with content using Lorem Ipsum.
+*   Add a Featured Image.
 *   Choose tags and categories.
 *   Choose which privacy setting you want for your post and explain why.
 *   Schedule the post to go out five minutes from now. [Or whatever time frame is desired - enough so you can see it published before class is over]
@@ -102,10 +101,10 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 **Add a Page** Learn how to create a blog page by selecting the proper tools and using Lorem Ipsum to add content.
 
-*   Create a page
-*   Give the page a title
-*   Fill the page with content using Lorem Ipsum
-*   Add a featured image
+*   Create a page.
+*   Give the page a title.
+*   Fill the page with content using Lorem Ipsum.
+*   Add a featured image.
 *   Choose which privacy setting you want for your page and explain why.
 *   Publish the page.
 *   **Bonus - add your page to a site menu.
@@ -128,9 +127,9 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 **Can pages have tags?** 
 
-**Answer:** No 
+**Answer:** No. 
 
-**By default, pages are displayed in reverse-chronological order on the site, one on top of the other. **
+**By default, pages are displayed in reverse-chronological order on the site, one on top of the other.**
 
 1.  True
 2.  False
