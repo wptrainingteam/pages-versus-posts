@@ -6,41 +6,166 @@ In this lesson, you will learn the difference between a page and a post. You wi
 
 ## Objectives
 
-After completing this lesson, you will be able to:
+After completing this lesson, participants will be able to:
 
 *   Recognize that pages are static.
 *   Recognize that posts are dynamic.
 *   Recall when to use posts and when to use pages.
 
+## Target Audience
+
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
+
+* [x] Users
+* [ ] Designers
+* [ ] Developers
+* [ ] Speakers
+* [ ] All
+
+## Experience Level
+
+How much experience would a participant need to get the most from this lesson?
+
+* [x] Beginner
+* [ ] Intermediate
+* [ ] Advanced
+* [ ] Any
+
+## Type of Instruction
+
+Which strategies will be used for this lesson plan? Choose all that apply.
+
+* [ ] Demonstration
+* [ ] Discussion
+* [x] Exercises
+* [ ] Feedback
+* [x] Lecture (Presentation)
+* [ ] Show & Tell
+* [ ] Tutorial
+
+## Time Estimate (Duration)
+
+How long will it take to teach this lesson (in minutes)?
+
+30 minutes
+
 ## Prerequisite Skills
 
-You will be better equipped to work through this lesson if you have experience in and familiarity with:
+Participants will get the most from this lesson if they have familiarity with:
 
 *   The [WordPress Dashboard.](https://github.com/wptrainingteam/dashboard-overview)
 
-## Assets
-
-*   A WordPress site for practicing
-*   [Theme unit test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) to import for example site
-*   Link to [lipsum.com](http://lipsum.com/)
-*   Include an image to upload for a featured image or find one from [http://placekitten.com/](http://placekitten.com/)
-
-## Screening Questions
+## Readiness Questions
 
 *   Have you worked with WordPress or another content management system before?
 *   Have you ever run a blog?
-*   How are your writing skills?
 
-## Teacher Notes
+## Materials Needed
 
-*   **Time Estimate**: 20-30 minutes
+*   A WordPress site for practicing
+*   A default theme such as [Twenty Sixteen theme](https://wordpress.org/themes/twentysixteen) or [Twenty Seventeen theme](https://wordpress.org/themes/twentyseventeen)
+*   [Theme unit test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) to import for example site
+*   Link to [lipsum.com](http://lipsum.com/)
+*   Include an image to upload for a featured image or find one from [http://placekitten.com/](http://placekitten.com/)
+*   [Slides](https://rawgit.com/wptrainingteam/pages-versus-posts/dev/slides/index.html) (included in this repo)
+
+## Notes for the Instructor
+
 *   You will be using the image uploader in this lesson, but not going into depth on a lot of the media features WordPress offers. A future lesson will go over this.
 *   For this project you will copy and paste dummy content from [lipsum.com](http://lipsum.com/). This makes the process of creating test pages and posts faster. It's advised you explain to students the concept of "dummy content" in the development process.
 *   The teacher should have access to the post editor and page editor, either installed locally or on a remote server. This editor should be visible to all students.
 *   Optionally, students should have access to their Editors, either installed locally or on a remote server.
 *   Instructions to the teacher are shown in square brackets.
 
-## Hands-on Walkthrough
+## Have You Thought About...?
+
+* Challenge 1
+* Challenge 2
+
+> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+>
+> _For example:_
+>
+> *  What if there’s no internet available?
+> *  What if there’s no projector available?
+> *  What if a participant doesn’t has a WordPress site to work with?
+> *  What if there aren’t enough computers for everyone?
+> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+
+## Lesson Overview
+
+* First do this
+* Then move on to this
+* Finish with this
+
+> The plan for the lesson. Outline form works well.
+>
+> _For example:_
+>
+> * Talk about what a theme is
+> * Demonstrate how to install and activate a theme
+> * Practice exercises to have participants find and install a theme on their own site
+
+## Exercises
+
+### Add a Post
+Learn how to create a blog post by selecting the proper tools and using Lorem Ipsum to add content.
+
+*   Create a post.
+*   Give the post a title.
+*   Fill the post with content using Lorem Ipsum.
+*   Add a Featured Image.
+*   Choose tags and categories.
+*   Choose which privacy setting you want for your post and explain why.
+*   Schedule the post to go out five minutes from now. [Or whatever time frame is desired - enough so you can see it published before class is over]
+*   Check blog page to note post is not there.
+*   Check again after the "published" time to see post live.
+*   **Bonus** - go back into the post and make it sticky.
+
+### Add a Page
+Learn how to create a blog page by selecting the proper tools and using Lorem Ipsum to add content.
+
+*   Create a page.
+*   Give the page a title.
+*   Fill the page with content using Lorem Ipsum.
+*   Add a featured image.
+*   Choose which privacy setting you want for your page and explain why.
+*   Publish the page.
+*   **Bonus** - add your page to a site menu.
+
+## Assessment
+
+**A post is which of the following?**
+
+1.  Static
+2.  Dynamic
+
+**Answer:** 2\. Dynamic
+
+**A page is which of the following?**
+
+1.  Static
+2.  Dynamic
+
+**Answer:** 1\. Static
+
+**Can pages have tags?**
+
+**Answer:** No.
+
+**By default, pages are displayed in reverse-chronological order on the site, one on top of the other.**
+
+1.  True
+2.  False
+
+**Answer:** 2\. False. Posts are shown in reverse chronological order. Not pages.
+
+## Additional Resources
+
+1.  [Post vs Page](https://en.support.wordpress.com/post-vs-page/) @ WordPress Support
+2.  [Writing Posts](https://codex.wordpress.org/Writing_Posts) @ Codex
+
+## Example Lesson
 
 ### Introduction
 
@@ -84,70 +209,6 @@ Notice how pages are static and are not listed by date. They don't have tags or
 
 As discussed earlier, posts are a bit different from pages. Check out how your posts can be found in archives, categories, recent posts, various widgets and RSS feeds of your blog. There are also different ways of showing posts. For example, you can create a sticky post, which means that the post will show before all other posts. You can also limit the number of posts shown by going to Dashboard>Reading>Settings.  
 
-## Exercises
+### Lesson Wrap Up
 
-**Add a Post** Learn how to create a blog post by selecting the proper tools and using Lorem Ipsum to add content.
-
-*   Create a post.
-*   Give the post a title.
-*   Fill the post with content using Lorem Ipsum.
-*   Add a Featured Image.
-*   Choose tags and categories.
-*   Choose which privacy setting you want for your post and explain why.
-*   Schedule the post to go out five minutes from now. [Or whatever time frame is desired - enough so you can see it published before class is over]
-*   Check blog page to note post is not there.
-*   Check again after the "published" time to see post live.
-*   **Bonus - go back into the post and make it sticky.
-
-**Add a Page** Learn how to create a blog page by selecting the proper tools and using Lorem Ipsum to add content.
-
-*   Create a page.
-*   Give the page a title.
-*   Fill the page with content using Lorem Ipsum.
-*   Add a featured image.
-*   Choose which privacy setting you want for your page and explain why.
-*   Publish the page.
-*   **Bonus - add your page to a site menu.
-
-## Quiz
-
-**A post is which of the following?**
-
-1.  Static
-2.  Dynamic
-
-**Answer:** 2\. Dynamic
-
-**A page is which of the following?**
-
-1.  Static
-2.  Dynamic
-
-**Answer:** 1\. Static 
-
-**Can pages have tags?** 
-
-**Answer:** No. 
-
-**By default, pages are displayed in reverse-chronological order on the site, one on top of the other.**
-
-1.  True
-2.  False
-
-**Answer:** 2\. False. Posts are shown in reverse chronological order. Not pages. ______________________________________________________________________________________________________
-
-## Assets
-
-Use one or more of the following themes in your demos:
-
-*   [Twenty Twelve theme](https://wordpress.org/themes/twentytwelve)
-*   [Twenty Thirteen theme](https://wordpress.org/themes/twentythirteen)
-*   [Twenty Fourteen theme](https://wordpress.org/themes/twentyfourteen)
-*   [Twenty Fifteen theme](https://wordpress.org/themes/twentyfifteen)
-*   [Twenty Sixteen theme](https://wordpress.org/themes/twentysixteen)
-*   [Twenty Seventeen theme](https://wordpress.org/themes/twentyseventeen)
-
-## Additional Resources
-
-1.  [Post vs Page](https://en.support.wordpress.com/post-vs-page/) @ WordPress Support
-2.  [Writing Posts](https://codex.wordpress.org/Writing_Posts) @ Codex
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
