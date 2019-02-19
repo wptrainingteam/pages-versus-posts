@@ -82,15 +82,15 @@ Participants will get the most from this lesson if they have familiarity with:
 * Challenge 1
 * Challenge 2
 
-> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
->
-> _For example:_
->
-> *  What if there’s no internet available?
-> *  What if there’s no projector available?
-> *  What if a participant doesn’t has a WordPress site to work with?
-> *  What if there aren’t enough computers for everyone?
-> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+
+_For example:_
+
+*  What if there’s no internet available?
+*  What if there’s no projector available?
+*  What if a participant doesn’t has a WordPress site to work with?
+*  What if there aren’t enough computers for everyone?
+*  What if no one has the prerequisite skills? What if there are different opinions about the topic?
 
 ## Lesson Overview
 
@@ -98,13 +98,13 @@ Participants will get the most from this lesson if they have familiarity with:
 * Then move on to this
 * Finish with this
 
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
+The plan for the lesson. Outline form works well.
+
+_For example:_
+
+* Talk about what a theme is
+* Demonstrate how to install and activate a theme
+* Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
@@ -140,25 +140,28 @@ Learn how to create a blog page by selecting the proper tools and using Lorem I
 1.  Static
 2.  Dynamic
 
-**Answer:** 2\. Dynamic
+**Answer:** 2. Dynamic
 
 **A page is which of the following?**
 
 1.  Static
 2.  Dynamic
 
-**Answer:** 1\. Static
+**Answer:** 1. Static
 
 **Can pages have tags?**
 
-**Answer:** No.
+1.  Yes
+2.  No
+
+**Answer:** 2. No
 
 **By default, pages are displayed in reverse-chronological order on the site, one on top of the other.**
 
 1.  True
 2.  False
 
-**Answer:** 2\. False. Posts are shown in reverse chronological order. Not pages.
+**Answer:** 2. False. Posts are shown in reverse chronological order. Not pages.
 
 ## Additional Resources
 
@@ -181,7 +184,7 @@ Now it's time to add a post. To add a post to your site, you can select "New" fr
 
 ### Practice Adding Pages
 
-When you are comfortable making a post, try creating a page. To add a page to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard>Pages>Add New. Check out your publishing options on this page. Also note how the unique url is shown for pages by using page-title. For example: http://yourwebsite.wordpress.com/page-title/.
+When you are comfortable making a post, try creating a page. To add a page to your site, you can select "New" from the admin bar at the top. You can also go to Dashboard > Pages > Add New. Check out your publishing options on this page. Also note how the unique url is shown for pages by using page-title. For example: http://yourwebsite.wordpress.com/page-title/.
 
 ### Similarities Between Posts and Pages
 
