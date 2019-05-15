@@ -163,6 +163,13 @@ Learn how to create a blog page by selecting the proper tools and using Lorem I
 
 **Answer:** 2. False. Posts are shown in reverse chronological order. Not pages.
 
+**Can we assign category to page?**
+
+1.  Yes
+2.  No
+
+**Answer:** 2. No
+
 ## Additional Resources
 
 1.  [Post vs Page](https://en.support.wordpress.com/post-vs-page/) @ WordPress Support
