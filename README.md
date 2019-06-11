@@ -67,7 +67,7 @@ Participants will get the most from this lesson if they have familiarity with:
 *   [Theme unit test data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) to import for example site
 *   Link to [lipsum.com](http://lipsum.com/)
 *   Include an image to upload for a featured image or find one from [http://placekitten.com/](http://placekitten.com/)
-*   [Slides](https://rawgit.com/wptrainingteam/pages-versus-posts/dev/slides/index.html) (included in this repo)
+*   [Slides](https://wptrainingteam.github.io/) (included in this repo)
 
 ## Notes for the Instructor
 
