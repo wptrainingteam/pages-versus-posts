@@ -45,9 +45,13 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 
 ## Time Estimate (Duration)
 
-How long will it take to teach this lesson (in minutes)?
+How long will it take to present this lesson?
 
-30 minutes
+* [X] 1 hour or less
+* [ ] 2-4 hours (half-day)
+* [ ] 5-8 hours (full-day)
+* [ ] 2 days
+* [ ] 3 days or more
 
 ## Prerequisite Skills
 
@@ -69,7 +73,7 @@ Participants will get the most from this lesson if they have familiarity with:
 *   Include an image to upload for a featured image or find one from [http://placekitten.com/](http://placekitten.com/)
 *   [Slides](https://wptrainingteam.github.io/) (included in this repo)
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 *   You will be using the image uploader in this lesson, but not going into depth on a lot of the media features WordPress offers. A future lesson will go over this.
 *   For this project you will copy and paste dummy content from [lipsum.com](http://lipsum.com/). This makes the process of creating test pages and posts faster. It's advised you explain to students the concept of "dummy content" in the development process.
