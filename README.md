@@ -204,4 +204,4 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 ### Lesson Wrap Up
 
-![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exerciess) and [Assessment](#Assessment) outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exercises) and [Assessment](#Assessment) outlined above.
