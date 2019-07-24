@@ -81,34 +81,13 @@ Participants will get the most from this lesson if they have familiarity with:
 *   Optionally, students should have access to their Editors, either installed locally or on a remote server.
 *   Instructions to the teacher are shown in square brackets.
 
-## Have You Thought About...?
-
-* Challenge 1
-* Challenge 2
-
-What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
-
-_For example:_
-
-*  What if there’s no internet available?
-*  What if there’s no projector available?
-*  What if a participant doesn’t has a WordPress site to work with?
-*  What if there aren’t enough computers for everyone?
-*  What if no one has the prerequisite skills? What if there are different opinions about the topic?
-
 ## Lesson Overview
 
-* First do this
-* Then move on to this
-* Finish with this
-
-The plan for the lesson. Outline form works well.
-
-_For example:_
-
-* Talk about what a theme is
-* Demonstrate how to install and activate a theme
-* Practice exercises to have participants find and install a theme on their own site
+* Create one post with dummy content and feature Image for default post type and publish it.
+* Create one post with dummy content and feature Image under custom post type and publish it.
+* Add Comments in the created post.
+* Create one page With dummy content and Feature Image for the same and publish it.
+* Practice exercises to understand difference between Post and Page.
 
 ## Exercises
 
@@ -225,4 +204,4 @@ As discussed earlier, posts are a bit different from pages. Check out how your p
 
 ### Lesson Wrap Up
 
-![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the [Exercises](#Exerciess) and [Assessment](#Assessment) outlined above.
